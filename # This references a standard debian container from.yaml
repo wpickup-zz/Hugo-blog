@@ -1,0 +1,6 @@
+box: debian
+build:
+  steps:
+    - arjen/hugo-build:
+        version: "1.16.2"
+        theme: tranqilpeak
