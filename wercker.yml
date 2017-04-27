@@ -26,7 +26,7 @@ build:
     - script:
         name: download theme
         code: |
-            $(git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git ./themes/tranqilpeak)
+            $(git clone https://github.com/kakawait/hugo-tranquilpeak-theme ./themes/tranqilpeak)
 
     - arjen/hugo-build:
         version: "1.16.2"
