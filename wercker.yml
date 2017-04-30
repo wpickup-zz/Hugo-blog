@@ -3,3 +3,12 @@ build:
   steps:
     - arjen/hugo-build:
         version: "HEAD"
+
+deploy:
+  steps:
+    - s3sync:
+        key_id: $AWS_KEY
+        key_secret: $AWS_SECRET
+        bucket_url: $URL
+        source_dir: public/
+        opts: --add-header=Cache-Control:max-age=604800
