@@ -3,7 +3,6 @@ build:
   steps:
     - arjen/hugo-build:
         version: "HEAD"
-
 deploy:
   steps:
     - s3sync:
