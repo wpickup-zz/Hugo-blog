@@ -1,0 +1,13 @@
+box: debian
+build:
+  steps:
+    - install-packages:
+        packages: git
+    - script:
+        name: download theme
+        code: |
+            $(git clone https://github.com/kakawait/hugo-tranquilpeak-theme ./themes/tranqilpeak)
+    - arjen/hugo-build:
+        version: "1.16.2"
+        theme: tranqilpeak
+        flags: --buildDrafts=true
