@@ -3,9 +3,6 @@ build:
   steps:
     - arjen/hugo-build:
         version: "0.14"
-    - samueldebruyn/minify:
-        css: false
-        js: false
 
 deploy:
   steps:
