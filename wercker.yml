@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: "0.20.2"
-        theme: redlounge
+        theme: tranquilpeak
 
 deploy:
   steps:
