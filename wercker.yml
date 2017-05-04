@@ -1,10 +1,10 @@
-box: debian
+box: node
 build:
   steps:
+    - npm-install
+    - hgen/gulp
     - arjen/hugo-build:
         version: "0.20.7"
-        theme: tranquilpeak
-        clean_before: true
 
 deploy:
   steps:
@@ -13,4 +13,4 @@ deploy:
         key_secret: $AWS_SECRET
         bucket_url: $URL
         source_dir: public/
-        opts: --acl-public --add-header=Cache-Control:max-age=2592000
+        opts: --add-header=Cache-Control:max-age=604800
