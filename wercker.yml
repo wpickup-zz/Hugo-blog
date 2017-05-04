@@ -1,8 +1,12 @@
-box: samueldebruyn/hugo-build
+box: golang:latest
 build:
   steps:
-    - samueldebruyn/hugo-theme-check:
-        theme: tranquilpeak
+    - script:
+        name: download theme
+        code: |
+            $(git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git ./themes/tranquilpeak)
+    - arjen/hugo-build:
+        version: "HEAD"
 
 deploy:
   steps:
