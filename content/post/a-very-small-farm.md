@@ -28,4 +28,4 @@ Another very good publisher of books relevant to this blog is [Chelsea Green][ch
 
 [amazon]: http://www.amazon.com/gp/product/0806137789/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0806137789&linkCode=as2&tag=slowlane-20
 [chelseagreen]: http://www.chelseagreen.com/
-[a-very-small-farm]: uploads/2014/01/31eSHxS5elL.jpg
+[a-very-small-farm]: /uploads/2014/01/31eSHxS5elL.jpg
