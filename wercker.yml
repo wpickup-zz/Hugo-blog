@@ -2,7 +2,7 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "0.20.2"
+        version: "0.20.7"
         theme: tranquilpeak
         clean_before: true
 
