@@ -1,8 +1,7 @@
-box: golang:latest
+box: samueldebruyn/hugo-build
 build:
   steps:
-    - arjen/hugo-build:
-        version: "HEAD"
+    - samueldebruyn/hugo-theme-check:
         theme: tranquilpeak
 
 deploy:
