@@ -1,8 +1,6 @@
-box: node
+box: golang
 build:
   steps:
-    - npm-install
-    - hgen/gulp
     - arjen/hugo-build:
         version: "0.20.7"
 
