@@ -4,6 +4,7 @@ build:
     - arjen/hugo-build:
         version: "0.20.2"
         theme: tranquilpeak
+        clean_before: true
 
 deploy:
   steps:
