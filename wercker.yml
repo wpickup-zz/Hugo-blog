@@ -1,8 +1,8 @@
-box: golang
+box: golang:latest
 build:
   steps:
     - arjen/hugo-build:
-        version: "0.20.7"
+        version: "HEAD"
 
 deploy:
   steps:
