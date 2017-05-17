@@ -2,14 +2,10 @@
 title: Ceramics Destinations in Kyoto
 slug: ceramics-destinations-in-kyoto
 date: 2012-10-21
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Travel
 - Japan
 - Craft
-
 ---
 The following are worth considering if you are in Kyoto and interested in Ceramics.
 

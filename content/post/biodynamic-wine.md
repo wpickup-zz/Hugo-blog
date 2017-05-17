@@ -2,12 +2,8 @@
 title: Biodynamic wine in the news
 slug: biodynamic-wine
 date: 2008-06-16
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Food
-
 ---
 Michelle Gadd of [organicwine.com.au][organicwine] has a [good summary][organicwine 2] of recent coverage of biodynamic wine in the Australia media.
 
@@ -22,5 +18,5 @@ Enjoy.
 [organicwine]: http://www.organicwine.com.au/
 [organicwine 2]: http://www.organicwine.com.au/Article.aspx?IID=131&Parent=18&NID=32&mode=2 "Organics wine news"
 [organicwine 3]: http://www.organicwine.com.au/docs/OrganicWineCatalogue.pdf
-[slowlane]: http://www.slowlane.com.au/blog/2008/05/17/krinklewood-biodynamic-wine/
+[slowlane]: https://williampickup.org/krinklewood-biodynamic-vineyard/
 [tamburlaine]: http://www.tamburlaine.com.au/

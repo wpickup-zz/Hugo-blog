@@ -2,12 +2,8 @@
 title: Chilly chook
 slug: chilly-chook
 date: 2008-06-16
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Design
-
 ---
 ![][williampickup]
 

@@ -2,12 +2,8 @@
 title: The future of aviation
 slug: aviation-futures
 date: 2011-06-28
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Tech
-
 ---
 Some fascinating images in the Atlantic article linked below - the long distance air travel proposal may well turn out to be the low carbon future of air transport  
 [What Might Have Been: The French View][theatlantic] The [French National Library][bnf] has a wonderful exhibit of prints from 1910, imagining the wonderful new world of the year 2000.  

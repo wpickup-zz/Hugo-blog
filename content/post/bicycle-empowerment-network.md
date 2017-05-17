@@ -2,12 +2,8 @@
 title: BEN - bicycle empowerment network
 slug: bicycle-empowerment-network
 date: 2008-10-15
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Culture
-
 ---
 Its Blog Action Day - my plug is for [BEN][benbikes] the Bicycle Empowerment Network of Namibia.  
 Established by Australian Michael Linke who had previously edited Australian Cyclist, which at the time was Australia's largest circulation cycling magazine, and [ReNew][ata], a magazine aimed at people designing, making and using solar, wind and biofuel energy devices, lowering their energy consumption and designing environmentally sustainable houses and businesses.  

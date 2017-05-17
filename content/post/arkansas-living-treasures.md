@@ -2,12 +2,10 @@
 title: Arkansas Living Treasures
 slug: arkansas-living-treasures
 date: 2014-06-26
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Craft
-banner: /uploads/2014/06/arkansas-made-logo-400.png
+coverimage: /uploads/2014/06/arkansas-made-logo-400.png
+coversize: partial
 ---
 
 Following a [link][finewoodworking] from Fine Woodworking I came across an [inspiring collection of videos][arkansaslivingtreasure] featuring a group of traditional craftspeople who live in the US state of Arkansas.

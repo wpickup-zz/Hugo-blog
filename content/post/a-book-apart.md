@@ -2,12 +2,8 @@
 title: A book apart
 slug: a-book-apart
 date: 2011-11-29
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Books
-
 ---
 Just bought [this bundle][abookapart] from [A Book Apart][abookapart 2], excellent value - especially as eBooks.  
 
