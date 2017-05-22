@@ -2,9 +2,6 @@
 title: Traditional chicken ark
 slug: chicken-ark
 date: 2009-11-19
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Earth
 - Food

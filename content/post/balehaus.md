@@ -2,12 +2,8 @@
 title: Balehaus - an experimental building
 slug: balehaus
 date: 2009-11-28
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Earth
-
 ---
 [The Ecologist][theecologist] is one of the great journals of the green movement and has recently gone through the transformation from print to online. This makes access to its stimulating content much easier.
 

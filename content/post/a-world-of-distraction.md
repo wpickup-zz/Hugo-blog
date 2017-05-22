@@ -2,12 +2,8 @@
 title: Finding significance in a world of distraction
 slug: a-world-of-distraction
 date: 2012-03-16
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Mind
-
 ---
 Really good material here from [Becoming Minimalist][becomingminimalist].
 

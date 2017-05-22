@@ -2,13 +2,8 @@
 title: A very small farm
 slug: a-very-small-farm
 date: 2008-05-18
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Books
-relativeURLs: true
-
 ---
 [![book image][a-very-small-farm]][amazon]
 

@@ -2,12 +2,8 @@
 title: Jean Nicholas Gerard, a potters potter
 slug: a-potters-potter
 date: 2013-05-21
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Craft
-
 ---
 Goldmark have produced another fascinating "day in the life" video, this time featuring French potter Jean-Nicholas Gerard who makes beautiful slipware pots.
 

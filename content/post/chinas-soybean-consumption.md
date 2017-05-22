@@ -2,12 +2,8 @@
 title: Chinas rising soybean consumption-reshaping-western-agriculture
 slug: chinas-soybean-consumption
 date: 2013-01-11
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Food
-
 ---
 [Disturbing article][permaculturenews] by [Lester Brown][earth-policy] on the [PRI website][permaculturenews 2]
 

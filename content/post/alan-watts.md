@@ -2,9 +2,6 @@
 title: Alan Watts
 slug: alan-watts
 date: 2008-09-21
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Books
 ---

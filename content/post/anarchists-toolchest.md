@@ -2,9 +2,6 @@
 title: The Anarchists Tool Chest
 slug: anarchists-toolchest
 date: 2012-11-16
-notoc: true
-noread: true
-socialsharing: true
 categories:
 - Books
 - Crafts

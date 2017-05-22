@@ -2,13 +2,9 @@
 title: A cabinet makers notebook
 slug: a-cabinetmakers-notebook
 date: 2012-06-21
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Books
 - Craft
-relativeURLs: true
 ---
 In interviews with contemporary woodworkers [James Krenov&#x2019;s][wikipedia] first book &#x2018;A Cabinetmaker Notebook&#x2019; is often cited as the book that changed the course of that person&#x2019;s life and led to them pursuing a career with wood.  
 The book is a meditation on Krenov&#x2019;s approach to his work. It describes a sensitive and considered approach to the design and construction of several pieces with a friendly conversational tone.

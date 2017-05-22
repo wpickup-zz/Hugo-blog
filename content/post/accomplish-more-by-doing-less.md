@@ -2,12 +2,8 @@
 title: How to accomplish more by doing less
 slug: accomplish-more-by-doing-less
 date: 2011-12-14
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Mind
-
 ---
 Rings true to my own experience
 [How to Accomplish More by Doing Less][harvardbusiness]

@@ -2,12 +2,8 @@
 title: John Dermer
 slug: a-visit-to-john-dermer
 date: 2012-12-21
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Craft
-
 ---
 In November we travelled down to Kirby's Flat for [John Dermer's][johndermer] annual major exhibition.
 

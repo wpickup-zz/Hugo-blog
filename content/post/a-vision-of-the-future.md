@@ -2,12 +2,8 @@
 title: A Vision of the Future
 slug: a-vision-of-the-future
 date: 2014-03-26
-notoc: true
-noread: true
-socialsharing: true
 categories: 
 - Tech
-
 ---
 ### [Wolfram at SXSW][stephenwolfram]
 
